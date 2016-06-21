@@ -1,3 +1,3 @@
-A photo gallery coded by react
+A photo gallery in React
 =====
-[main]: Gallery-by-React.gif  "A photo gallery coded by react"
+![Main Pic](/Gallery-by-React.gif "A photo gallery in React")
