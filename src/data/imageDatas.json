@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "fileName": "1.jpg",
     "title": "Heaven of time",
